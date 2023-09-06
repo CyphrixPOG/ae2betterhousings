@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "x x",
+    "yyy"
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:signalum_glass"
+    },
+    "x": {
+      "item": "create:rose_quartz"
+    },
+    "y": {
+      "item": "thermal:signalum_ingot"
+    }
+  },
+  "result": {
+    "item": "ae2betterhousings:sixteenkstoragehousing"
+  }
+}

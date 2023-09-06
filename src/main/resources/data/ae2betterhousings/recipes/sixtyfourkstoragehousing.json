@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "x x",
+    "yyy"
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:enderium_glass"
+    },
+    "x": {
+      "item": "thermal:lumium_ingot"
+    },
+    "y": {
+      "item": "thermal:enderium_ingot"
+    }
+  },
+  "result": {
+    "item": "ae2betterhousings:sixtyfourkstoragehousing"
+  }
+}

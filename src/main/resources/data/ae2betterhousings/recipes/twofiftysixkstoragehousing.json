@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "x x",
+    "yzy"
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:enderium_glass"
+    },
+    "x": {
+      "item": "thermal:enderium_ingot"
+    },
+    "y": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "z": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "ae2betterhousings:twofiftysixkstoragehousing"
+  }
+}
